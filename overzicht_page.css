@@ -117,14 +117,15 @@ body {
         margin: 0;
         padding: 0;
         
-        background-color: #cdcdcd;
+        background: #232323;
+        color:white;
     } 
 }
 
 @media (min-width:480px) and (max-width: 1024px){
     a {
         text-decoration: none;
-        color: #232323;
+        color: white;
             
         transition: color 0.3s ease;
     }
