@@ -39,7 +39,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #232323;
-    color: #cdcdcd;
+    color: white;
 } 
 
 @media (min-width:1024px) {
@@ -116,8 +116,8 @@ body {
     body {
         margin: 0;
         padding: 0;
-        background-image:url("spacebackground.jpeg");
-        color: #cdcdcd;
+        
+        background-color: #cdcdcd;
     } 
 }
 
@@ -205,8 +205,8 @@ body {
     body {
         margin: 0;
         padding: 0;
-        background-image:url("spacebackground.jpeg");
-        color: #cdcdcd;
+        background-color: #232323;
+        color: white;
     } 
 }
 
@@ -296,7 +296,7 @@ body {
     body {
         margin: 0;
         padding: 0;
-        background-image:url("spacebackground.jpeg");
-        color: #cdcdcd;
+        background-color: #232323;;
+        color: white;
     } 
 }
